@@ -1,6 +1,6 @@
 # Why Stop Now? Causal Natural Language Explanations for Automated Commentary Driving
 
-This repository contains code for the following paper:
+This repository contains code for the following paper (currently under review):
 
 Marc Alexander Kühn, Daniel Omeiza and Lars Kunze, Why Stop Now? Causal Natural Language Explanations for Automated Commentary Driving. ICRA 2023.
 
