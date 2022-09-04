@@ -1,0 +1,16 @@
+tqdm
+wget
+scipy
+numpy
+opencv-python
+h5py
+scikit-video
+tensorflow==1.15
+tensorflow-gpu==1.15
+matplotlib
+zmq
+pandas==0.20.3
+scikit-learn
+seaborn==0.8.1
+sacrebleu
+nltk
