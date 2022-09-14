@@ -1,6 +1,6 @@
 # Why Do We Stop? Textual Explanations for Automated Commentary Driving
 
-This repository contains code for the following paper:
+This repository contains code for the following paper (under review):
 
 Marc Alexander Kühn, Daniel Omeiza and Lars Kunze, Why Do We Stop? Textual Explanations for Automated Commentary Driving. ICRA 2023.
 
