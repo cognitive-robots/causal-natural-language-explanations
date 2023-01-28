@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Project           : Why Do We Stop? Textual Explanations for Automated Commentary Driving
+# Project           : Textual Explanations for Automated Commentary Driving
 #
 # Author            : Marc Alexander Kühn, Daniel Omeiza and Lars Kunze
 #
